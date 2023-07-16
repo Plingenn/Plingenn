@@ -29,4 +29,4 @@ class Plingenn:
 └─$
 ```
 # 📈 GitHub Analytics
-![](https://github-readme-stats/api?username=Plingenn&show_icons=true&theme=dark)
+![Plingenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plingenn)
