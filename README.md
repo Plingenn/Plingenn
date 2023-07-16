@@ -103,15 +103,25 @@
 
 
 
-─────────────────────────────────────────────────────────────────────────────────────────
+ </details>
+
+-----------
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
-─────────────────────────────────────────────────────────────────────────────────────────
+ </details>
+
+-----------
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=Rain-Tools&show_owner=true)
-─────────────────────────────────────────────────────────────────────────────────────────
+ </details>
+
+-----------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plingenn)
-─────────────────────────────────────────────────────────────────────────────────────────
+ </details>
+
+-----------
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Plingenn\&repo=Rain-Tools\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-─────────────────────────────────────────────────────────────────────────────────────────
+ </details>
+
+-----------
 
 <details>
 <summary>:eyes: Show More</summary>
