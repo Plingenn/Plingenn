@@ -28,3 +28,4 @@ class Plingenn:
 ┌──(Plingenn㉿root)-[~/rainlab]
 └─$
 ```
+# 📈 GitHub Analytics
