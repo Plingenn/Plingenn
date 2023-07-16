@@ -37,7 +37,6 @@
   </p>
  </details>
 
-# Plingenn
 -----------
 </details>
 </p>
