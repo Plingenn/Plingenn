@@ -1,11 +1,10 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/113180814?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">About me</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Plingenn/themerain/workflows/Test/badge.svg" />
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
