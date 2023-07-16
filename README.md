@@ -1,6 +1,7 @@
 <p align="center">
  <img width="100px" src="https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Plingenn</h2>
+ -----------
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -112,7 +113,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Plingenn&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-
+***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=rain-tools" />
