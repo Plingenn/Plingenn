@@ -77,7 +77,7 @@ Out of the numerous projects I've worked on, one stands tall as my flagship crea
 > **Note**
 > If you are on the [Pro (i.e. paid)](https://vercel.com/pricing) Vercel plan, the [maxDuration](https://vercel.com/docs/concepts/projects/project-configuration#value-definition) value found in the [Vercel.json](https://github.com/anuraghazra/github-readme-stats/blob/master/vercel.json) can be increased when your Vercel instance frequently times out during the card request. You are advised to keep this value lower than `30` seconds to prevent high memory usage.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](github.com/Plingenn/Rain-Tools)
 
 <details>
  <summary><b>:hammer_and_wrench: Step-by-step guide on setting up your own Vercel instance</b></summary>
