@@ -63,7 +63,7 @@
 
 </details>
 
-# Deploy on your own
+# My Projects
 
 ## On Vercel
 
