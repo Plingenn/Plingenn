@@ -4,13 +4,13 @@
 
 # Plingenn
 -----------
+</details>
+
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-   # 
------------
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
     </a>
@@ -35,7 +35,11 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
+ </details>
 
+# Plingenn
+-----------
+</details>
 </p>
 <!-- GitHub Star Badge -->
 <p align="center">
