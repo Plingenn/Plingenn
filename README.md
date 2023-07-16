@@ -72,7 +72,13 @@
   <a href="https://github.com/Plingenn/ThemeRain/archive/HEAD.zip" aria-label="Download Plingenn/ThemeRain on GitHub">
     <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/Plingenn/ThemeRain/total?style=social">
   </a>
+
+  <!-- GitHub Package Badge -->
+  <a href="https://github.com/Plingenn/ThemeRain/packages" aria-label="Install this package Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub packages" src="https://img.shields.io/badge/GitHub-Package-blue?style=social">
+  </a>
 </p>
+
 
 
 
