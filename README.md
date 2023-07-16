@@ -118,27 +118,9 @@ Use [show\_owner](#repo-card-exclusive-options) query option to include the repo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&border_color=2e4058)
 
-*   Include All Commits
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&include_all_commits=true)
-
-*   Themes
-
-Choose from any of the [default themes](#themes)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
-
-*   Gradient
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-
 *   Customizing stats card
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-*   Setting card locale
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&locale=es)
 
 *   Customizing repo card
 
