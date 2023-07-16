@@ -65,9 +65,9 @@
 
 # My Projects
 
-## On Vercel
+## On GIthub
 
-### :film\_projector: [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
+### :film\_projector: [Check Out My Projects On Github! @Plingenn](Github.com/Plingenn))
 
 Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you do not have to worry about anything. Click on the deploy button to get started!
 
