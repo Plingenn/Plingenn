@@ -69,7 +69,7 @@
 
 ### :film\_projector: [Check Out My Projects On Github! @Plingenn](Github.com/Plingenn))
 
-Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you do not have to worry about anything. Click on the deploy button to get started!
+I have Alot of Project but my biggest one is Rain-Tools if you want to know more about it check it out here: `github.com/Plingenn/Rain-Tools`.
 
 > **Note**
 > Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
