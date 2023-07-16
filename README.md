@@ -82,7 +82,7 @@ Out of the numerous projects I've worked on, one stands tall as my flagship crea
 <details>
  <summary><b>:hammer_and_wrench: Step-by-step guide on setting up your own Vercel instance</b></summary>
 
-1.  Go to [vercel.com](https://vercel.com/).
+1.  Go to [github.com/Plingenn/Rain-Tools](https://github.com/Plingenn/Rain-Tool).
 2.  Click on `Log in`.
     ![](https://files.catbox.moe/pcxk33.png)
 3.  Sign in with GitHub by pressing `Continue with GitHub`.
