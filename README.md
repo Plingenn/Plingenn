@@ -45,7 +45,7 @@
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Plingenn/ThemeRain" data-color-scheme="no-preference: dark_high_contrast; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Star Plingenn/ThemeRain on GitHub">Star</a>
 <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<script src="https://buttons.github.io/buttons.js"></script>
 
 <details>
 <summary>:eyes: Show More</summary>
