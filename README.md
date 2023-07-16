@@ -34,62 +34,6 @@
 </p>
 # GitHub Stats Card
 
-Copy-paste this into your markdown content, and that is it. Simple!
-
-Change the `?username=` value to your GitHub username.
-
-```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-> **Warning**
-> By default, the stats card only shows statistics like stars, commits and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
-
-> **Note**
-> Available ranks are S (top 1%), A+ (12.5%), A (25%), A- (37.5%), B+ (50%), B (62.5%), B- (75%), C+ (87.5%) and C (everyone). This ranking scheme is based on the [Japanese academic grading](https://wikipedia.org/wiki/Academic_grading_in_Japan) system. The global percentile is calculated as a weighted sum of percentiles for each statistic (number of commits, pull requests, issues, stars and followers), based on the cumulative distribution function of the [exponential](https://wikipedia.org/wiki/exponential_distribution) and the [log-normal](https://wikipedia.org/wiki/Log-normal_distribution) distributions. The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js). The circle around the rank shows 100 minus the global percentile.
-
-### Hiding individual stats
-
-You can pass a query parameter `&hide=` to hide any specific stats with comma-separated values.
-
-> Options: `&hide=stars,commits,prs,issues,contribs`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-```
-
-### Showing additional individual stats
-
-You can pass a query parameter `&show=` to show any specific additional stats with comma-separated values.
-
-> Options: `&show=reviews,discussions_started,discussions_answered`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
-```
-
-### Showing icons
-
-To enable icons, you can pass `&show_icons=true` in the query param, like so:
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-```
-
-### Themes
-
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
-
-Use `&theme=THEME_NAME` parameter like so :
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-```
-
-#### All inbuilt themes
-
-GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
-
 <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js). You can also contribute new themes if you like, contributing guidelines can be found [here](./CONTRIBUTING.md#themes-contribution).
