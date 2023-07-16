@@ -69,7 +69,7 @@
 
 ### :film\_projector: [Check Out My Projects On Github! @Plingenn](Github.com/Plingenn))
 
-I have Alot of Project but my biggest one is Rain-Tools if you want to know more about it check it out here: `github.com/Plingenn/Rain-Tools`.
+Out of the numerous projects I've worked on, one stands tall as my flagship creation - Rain-Tools. This versatile and powerful utility is exclusively designed for Discord. If you're curious to dive into its capabilities, venture into its GitHub repository: [github.com/Plingenn/Rain-Tools](https://github.com/Plingenn/Rain-Tools).
 
 > **Note**
 > Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
