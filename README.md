@@ -2,6 +2,10 @@
  <img width="100px" src="https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif" align="center" alt="GitHub Readme Stats" />
  <h1 align="center">Plingenn</h1>
  <h2 align="center">───────────────────────────────────────────────────────────</h2>
+ </details>
+
+# My Projects
+-----------
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
