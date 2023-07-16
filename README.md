@@ -44,6 +44,12 @@
   </a>
 </p>
 
+  <!-- GitHub Follow Badge -->
+  <a href="https://github.com/Plingenn" aria-label="Follow @Plingenn on GitHub">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Plingenn?style=social">
+  </a>
+</p>
+
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
 ────────────────────────────────────────────────────────────────────────────────────────────
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=Rain-Tools&show_owner=true)
