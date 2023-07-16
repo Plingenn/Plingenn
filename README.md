@@ -30,3 +30,4 @@ class Plingenn:
 ```
 # 📈 GitHub Analytics
 ![Plingenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark)
+![](https://img.shields.io/discord/1129781202329538633)
