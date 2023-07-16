@@ -49,14 +49,6 @@
 
 *   Donut Vertical Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-*   Pie Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-# Wakatime Stats Card
-
 > **Warning**
 > Please be aware that we currently only show data from Wakatime profiles that are public. You therefore have to make sure that **BOTH** `Display code time publicly` and `Display languages, editors, os, categories publicly` are enabled.
 
@@ -70,15 +62,6 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ***
 
-# All Demos
-
-*   Default
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-
-*   Hiding specific stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues)
 
 *   Showing additional stats
 
