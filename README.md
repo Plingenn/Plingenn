@@ -101,9 +101,6 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Plingenn\&repo=Rain-Tools\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ────────────────────────────────────────────────────────────────────────────────────────────
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js" ></script>
-
 <details>
 <summary>:eyes: Show More</summary>
 
