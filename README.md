@@ -1,16 +1,27 @@
-### Hi there 👋
+┌──(TheKindDeveloper㉿root)-[~/devlab]
+└─$ TheKindDeveloper.py
 
-<!--
-**Plingenn/Plingenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class TheKindDeveloper:
 
-Here are some ideas to get you started:
+    banana = []
+    bbc = []
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __TheKindDeveloper__(self) -> None:
+        self.about = {
+        'I mainly Program in Python',
+        'Owner of Bypass Tool (discontinued)'
+        }
+
+    def __my_socials__(self) -> None:
+        self.discord = "look down ∙"
+        self.github = "github.com/TheKindDeveloper"
+        self.other = ['i dont have any other socials :(']
+
+    def __langs__(self) -> banana:
+        self.langs = ['Python', 'Golang', '..']
+
+    def __projects__(self) -> bbc:
+        self.projects = ['...']
+
+┌──(TheKindDeveloper㉿root)-[~/devlab]
+└─$
