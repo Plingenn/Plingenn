@@ -62,7 +62,13 @@
   <a href="https://github.com/Plingenn/ThemeRain/issues" aria-label="Issue Plingenn/ThemeRain on GitHub">
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/Plingenn/ThemeRain?style=social">
   </a>
+
+  <!-- GitHub Discuss Badge -->
+  <a href="https://github.com/Plingenn/ThemeRain/discussions" aria-label="Discuss Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub discussions" src="https://img.shields.io/github/discussions/Plingenn/ThemeRain?style=social">
+  </a>
 </p>
+
 
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
