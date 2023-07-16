@@ -34,10 +34,9 @@
 </p>
 <!-- GitHub Star Badge -->
 <p align="center">
-  <a class="github-button" href="https://github.com/Plingenn/ThemeRain/fork" data-color-scheme="no-preference: dark_high_contrast; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork Plingenn/ThemeRain on GitHub">Fork</a>
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Plingenn/ThemeRain?style=dark">
+  <a href="https://github.com/Plingenn/ThemeRain" aria-label="Star Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Plingenn/ThemeRain?style=social">
   </a>
-</p>
 
   <!-- GitHub Fork Badge -->
   <a href="https://github.com/Plingenn/ThemeRain/fork" aria-label="Fork Plingenn/ThemeRain on GitHub">
