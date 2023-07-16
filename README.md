@@ -73,10 +73,7 @@ Out of the numerous projects I've worked on, one stands tall as my flagship crea
 
 > **Note**
 > Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Plingenn/ThemeRain" data-icon="octicon-star" aria-label="Star Plingenn/ThemeRain on GitHub">Star</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+> 
 > **Note**
 > If you are on the [Pro (i.e. paid)](https://vercel.com/pricing) Vercel plan, the [maxDuration](https://vercel.com/docs/concepts/projects/project-configuration#value-definition) value found in the [Vercel.json](https://github.com/anuraghazra/github-readme-stats/blob/master/vercel.json) can be increased when your Vercel instance frequently times out during the card request. You are advised to keep this value lower than `30` seconds to prevent high memory usage.
 
