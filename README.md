@@ -73,14 +73,7 @@ Use [show\_owner](#repo-card-exclusive-options) query option to include the repo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-*   Hidden progress bars
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&hide_progress=true)
-
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&hide_progress=true)
 
 *   Compact layout
 
