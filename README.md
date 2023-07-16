@@ -38,13 +38,12 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Plingenn/ThemeRain?style=dark">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Plingenn/ThemeRain" aria-label="Star Plingenn/ThemeRain on GitHub">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Plingenn/ThemeRain?style=dark">
+
+  <!-- GitHub Fork Badge -->
+  <a href="https://github.com/Plingenn/ThemeRain/fork" aria-label="Fork Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Plingenn/ThemeRain?style=social">
   </a>
 </p>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/Plingenn/ThemeRain/fork" data-color-scheme="no-preference: dark_high_contrast; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Fork Plingenn/ThemeRain on GitHub">Fork</a>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
 ────────────────────────────────────────────────────────────────────────────────────────────
