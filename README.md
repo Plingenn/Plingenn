@@ -34,20 +34,13 @@
 </p>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
-![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=Plingenn\&repo=Rain-Tools\&show_owner=true](https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif))
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=Rain-Tools&show_owner=true)
 
 
 
-
-*   Donut Chart layout
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plingenn\&layout=donut)](https://github.com/Plingenn/Rain-Tool)
 
-*   Donut Vertical Chart layout
-
-Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
-
-***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
