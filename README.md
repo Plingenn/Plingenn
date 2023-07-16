@@ -45,7 +45,7 @@
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Plingenn/ThemeRain" data-color-scheme="no-preference: dark_high_contrast; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Star Plingenn/ThemeRain on GitHub">Star</a>
 <!-- Place this tag in your head or just before your close body tag. -->
-<script src="https://buttons.github.io/buttons.js"></script>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <details>
 <summary>:eyes: Show More</summary>
@@ -69,10 +69,11 @@
 </details>
 
 # My Projects
+-----------
 
-## On GIthub
+## On Github:
 
-### :film\_projector: [Check Out My Projects On Github! @Plingenn](Github.com/Plingenn))
+### :film\_projector: [Check Out My Projects On Github! @Plingenn](https://github.com/Plingenn)
 
 Out of the numerous projects I've worked on, one stands tall as my flagship creation - Rain-Tools. This versatile and powerful utility is exclusively designed for Discord. If you're curious to dive into its capabilities, venture into its GitHub repository: [github.com/Plingenn/Rain-Tools](https://github.com/Plingenn/Rain-Tools).
 
@@ -80,7 +81,7 @@ Out of the numerous projects I've worked on, one stands tall as my flagship crea
 > Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
 > 
 > **Note**
-> If you are on the [Pro (i.e. paid)](https://vercel.com/pricing) Vercel plan, the [maxDuration](https://vercel.com/docs/concepts/projects/project-configuration#value-definition) value found in the [Vercel.json](https://github.com/anuraghazra/github-readme-stats/blob/master/vercel.json) can be increased when your Vercel instance frequently times out during the card request. You are advised to keep this value lower than `30` seconds to prevent high memory usage.
+> To get a closer look at Rain-Tools, you can also explore the project on Vercel: [Deploy to Vercel](https://github.com/Plingenn/Rain-Tool)
 
 [![Deploy to Vercel](https://vercel.com/button)](https://github.com/Plingenn/Rain-Tool)
 
