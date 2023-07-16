@@ -52,7 +52,6 @@
   <a href="https://github.com/sponsors/Plingenn" aria-label="Sponsor @Plingenn on GitHub">
     <img alt="GitHub sponsors" src="https://img.shields.io/github/sponsors/Plingenn?style=social">
   </a>
-</p>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
 ────────────────────────────────────────────────────────────────────────────────────────────
