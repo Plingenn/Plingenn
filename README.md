@@ -37,13 +37,10 @@
 ────────────────────────────────────────────────────────────────────────────────────────────
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=Rain-Tools&show_owner=true)
 ────────────────────────────────────────────────────────────────────────────────────────────
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plingenn\&layout=donut)](https://github.com/Plingenn/Rain-Tool)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plingenn)
 ────────────────────────────────────────────────────────────────────────────────────────────
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Plingenn\&repo=Rain-Tools\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ────────────────────────────────────────────────────────────────────────────────────────────
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plingenn)
-────────────────────────────────────────────────────────────────────────────────────────────
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
 
 <details>
 <summary>:eyes: Show example</summary>
