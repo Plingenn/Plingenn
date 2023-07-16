@@ -29,4 +29,4 @@ class Plingenn:
 └─$
 ```
 # 📈 GitHub Analytics
-![SASA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark)
+(https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark)
