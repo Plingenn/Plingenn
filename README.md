@@ -56,19 +56,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ***
 
-*   Customizing stats card
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
-
-*   Customizing repo card
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Plingenn\&repo=Rain-Tools\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
-*   Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
-*   WakaTime card
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
 
