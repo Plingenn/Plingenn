@@ -96,6 +96,10 @@
     <img alt="GitHub action" src="https://img.shields.io/badge/GitHub-Action-black?style=for-the-badge&logo=github">
   </a>
 </p>
+ </details>
+
+-----------
+</details>
 
 
 
