@@ -48,7 +48,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Plingenn?style=social">
   </a>
 
-    <!-- GitHub Sponsor Badge -->
+    
   <a href="https://github.com/sponsors/Plingenn" aria-label="Sponsor @Plingenn on GitHub">
     <img alt="GitHub sponsors" src="https://img.shields.io/github/sponsors/Plingenn?style=social">
   </a>
