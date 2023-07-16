@@ -33,4 +33,4 @@ class Plingenn:
 ![](https://img.shields.io/discord/1129781202329538633)
 # 📃 Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=Rain-Tools&theme=dark)](https://github.com/Plingenn/Rain-Tools&theme=dark)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plingenn)](https://github.com/Plingenn/raintheme)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plingenn)](https://github.com/Plingenn/THEMERAIN)
