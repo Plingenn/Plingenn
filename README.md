@@ -50,7 +50,7 @@
 
   <!-- GitHub Sponsor Badge -->
   <a href="https://github.com/sponsors/Plingenn" aria-label="Sponsor @Plingenn on GitHub">
-    <img alt="GitHub sponsors" src="https://img.shields.io/github/sponsors/Plingenn?style=dark&logo=github">
+    <img alt="GitHub sponsors" src="https://img.shields.io/github/sponsors/Plingenn?style=black&logo=github">
   </a>
 
   <!-- GitHub Watch Badge -->
