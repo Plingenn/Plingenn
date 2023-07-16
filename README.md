@@ -36,7 +36,7 @@
 ![Your GIF Image Description](https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif)
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Plingenn\&repo=Rain-Tools\&show_owner=true)
+![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=Plingenn\&repo=Rain-Tools\&show_owner=true](https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif))
 
 
 
