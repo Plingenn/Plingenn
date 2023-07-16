@@ -31,3 +31,14 @@ class Plingenn:
 # 📈 GitHub Analytics
 ![Plingenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark)
 ![](https://img.shields.io/discord/1129781202329538633)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
