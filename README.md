@@ -32,6 +32,12 @@
   </p>
 
 </p>
+<!-- GitHub Star Badge -->
+<p align="center">
+  <a href="https://github.com/Plingenn/ThemeRain" aria-label="Star Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Plingenn/ThemeRain?style=social">
+  </a>
+</p>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
 ────────────────────────────────────────────────────────────────────────────────────────────
