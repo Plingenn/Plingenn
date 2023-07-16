@@ -48,7 +48,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Plingenn?style=social">
   </a>
 
- <!-- GitHub Sponsor Badge -->
+  <!-- GitHub Sponsor Badge -->
   <a href="https://github.com/sponsors/Plingenn" aria-label="Sponsor @Plingenn on GitHub">
     <img alt="GitHub sponsors" src="https://img.shields.io/github/sponsors/Plingenn?style=social">
   </a>
@@ -57,7 +57,13 @@
   <a href="https://github.com/Plingenn/ThemeRain/subscription" aria-label="Watch Plingenn/ThemeRain on GitHub">
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Plingenn/ThemeRain?style=social">
   </a>
+
+  <!-- GitHub Issue Badge -->
+  <a href="https://github.com/Plingenn/ThemeRain/issues" aria-label="Issue Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Plingenn/ThemeRain?style=social">
+  </a>
 </p>
+
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
 ────────────────────────────────────────────────────────────────────────────────────────────
