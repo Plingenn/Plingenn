@@ -77,6 +77,16 @@
   <a href="https://github.com/Plingenn/ThemeRain/packages" aria-label="Install this package Plingenn/ThemeRain on GitHub">
     <img alt="GitHub packages" src="https://img.shields.io/badge/GitHub-Package-blue?style=social">
   </a>
+
+  <!-- GitHub Template Badge -->
+  <a href="https://github.com/Plingenn/ThemeRain/generate" aria-label="Use this template Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub template" src="https://img.shields.io/badge/GitHub-Template-green?style=social">
+  </a>
+
+  <!-- GitHub Action Badge -->
+  <a href="https://github.com/Plingenn/ThemeRain" aria-label="Use this GitHub Action Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub action" src="https://img.shields.io/badge/GitHub-Action-black?style=social">
+  </a>
 </p>
 
 
