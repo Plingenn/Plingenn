@@ -1,29 +1,29 @@
 ```
-┌──(TheKindDeveloper㉿root)-[~/devlab]
-└─$ TheKindDeveloper.py
+┌──(Plingenn㉿root)-[~/rainlab]
+└─$ Plingenn.py
 
-class TheKindDeveloper:
+class Plingenn:
 
+    strawberry = []
     banana = []
-    bbc = []
 
-    def __TheKindDeveloper__(self) -> None:
+    def __Plingenn__(self) -> None:
         self.about = {
         'I mainly Program in Python',
-        'Owner of Bypass Tool (discontinued)'
+        'Owner of Rain Tools'
         }
 
     def __my_socials__(self) -> None:
         self.discord = "look down ∙"
-        self.github = "github.com/TheKindDeveloper"
-        self.other = ['i dont have any other socials :(']
+        self.github = "github.com/Plingenn"
+        self.other = ['i dont have that :(']
 
-    def __langs__(self) -> banana:
+    def __langs__(self) -> strawberry:
         self.langs = ['Python', 'Golang', '..']
 
-    def __projects__(self) -> bbc:
+    def __projects__(self) -> banana:
         self.projects = ['...']
 
-┌──(TheKindDeveloper㉿root)-[~/devlab]
+┌──(Plingenn㉿root)-[~/rainlab]
 └─$
 ```
