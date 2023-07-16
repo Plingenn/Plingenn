@@ -67,6 +67,11 @@
   <a href="https://github.com/Plingenn/ThemeRain/discussions" aria-label="Discuss Plingenn/ThemeRain on GitHub">
     <img alt="GitHub discussions" src="https://img.shields.io/github/discussions/Plingenn/ThemeRain?style=social">
   </a>
+
+  <!-- GitHub Download Badge -->
+  <a href="https://github.com/Plingenn/ThemeRain/archive/HEAD.zip" aria-label="Download Plingenn/ThemeRain on GitHub">
+    <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/Plingenn/ThemeRain/total?style=social">
+  </a>
 </p>
 
 
