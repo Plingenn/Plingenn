@@ -35,7 +35,7 @@
 <!-- GitHub Star Badge -->
 <p align="center">
   <a href="https://github.com/Plingenn/ThemeRain" aria-label="Star Plingenn/ThemeRain on GitHub">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Plingenn/ThemeRain?style=social">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Plingenn/ThemeRain?style=dark">
   </a>
 </p>
 
