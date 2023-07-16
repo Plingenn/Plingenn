@@ -141,4 +141,7 @@ Out of the numerous projects I've worked on, one stands tall as my flagship crea
     <https://github.com/anuraghazra/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L11>
 5.  You're done 🎉
     </details>
+    
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
