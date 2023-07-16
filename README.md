@@ -1,3 +1,4 @@
+```
 ┌──(TheKindDeveloper㉿root)-[~/devlab]
 └─$ TheKindDeveloper.py
 
@@ -25,3 +26,4 @@ class TheKindDeveloper:
 
 ┌──(TheKindDeveloper㉿root)-[~/devlab]
 └─$
+```
