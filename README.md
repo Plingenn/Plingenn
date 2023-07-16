@@ -42,13 +42,11 @@
   <a href="https://github.com/Plingenn/ThemeRain/fork" aria-label="Fork Plingenn/ThemeRain on GitHub">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/Plingenn/ThemeRain?style=social">
   </a>
-</p>
 
   <!-- GitHub Follow Badge -->
   <a href="https://github.com/Plingenn" aria-label="Follow @Plingenn on GitHub">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Plingenn?style=social">
   </a>
-</p>
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
 ────────────────────────────────────────────────────────────────────────────────────────────
