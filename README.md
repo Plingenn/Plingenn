@@ -35,9 +35,6 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Plingenn/Rain-Tools#responsive-card-theme#gh-dark-mode-only)
 
-> **Warning**
-> We use caching to decrease the load on our servers (see <https://github.com/anuraghazra/github-readme-stats/issues/1471#issuecomment-1271551425>). Our cards have a default cache of 4 hours (14400 seconds). Also, note that the cache is clamped to a minimum of 4 hours and a maximum of 24 hours.
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Plingenn\&repo=Rain-Tools\&show_owner=true)
 
 
@@ -45,12 +42,9 @@
 
 *   Donut Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plingenn\&layout=donut)](https://github.com/Plingenn/Rain-Tool)
 
 *   Donut Vertical Chart layout
-
-> **Warning**
-> Please be aware that we currently only show data from Wakatime profiles that are public. You therefore have to make sure that **BOTH** `Display code time publicly` and `Display languages, editors, os, categories publicly` are enabled.
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
