@@ -80,20 +80,11 @@ Use [show\_owner](#repo-card-exclusive-options) query option to include the repo
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
-```md
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-```
-
 ### Demo
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plingenn)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&hide_progress=true)
-
-
-*   Compact layout
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plingenn\&hide_progress=true)
 
 ***
 
