@@ -54,12 +54,6 @@
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
-### Demo
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plingenn)
-
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Plingenn\&hide_progress=true)
-
 ***
 
 *   Customizing stats card
