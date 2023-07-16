@@ -32,7 +32,6 @@
   </p>
 
 </p>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Plingenn/Rain-Tools#responsive-card-theme#gh-dark-mode-only)
 ![Your GIF Image Description](https://cdn.dribbble.com/users/2660249/screenshots/6664064/comp_1.gif)
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Plingenn&show_icons=true&theme=dark#gh-dark-mode-only)
