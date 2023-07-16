@@ -48,11 +48,6 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Plingenn\&repo=Rain-Tools\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 ────────────────────────────────────────────────────────────────────────────────────────────
 
-<!-- Place this tag where you want the button to render. -->
-<p align="center">
-  <a class="github-button" href="https://github.com/Plingenn/ThemeRain" data-color-scheme="no-preference: dark_high_contrast; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Star Plingenn/ThemeRain on GitHub">Star</a>
-</p>
-
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
