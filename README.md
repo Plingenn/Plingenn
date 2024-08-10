@@ -100,29 +100,41 @@
 
 ```python
 ┌──(Plingenn㉿root)-[~/rain]
-└─$ Plingenn.py
+└─$ python3 Plingenn.py
 
 class Plingenn:
-
-    strawberry = []
-    banana = []
-
-    def __Plingenn__(self) -> None:
+    def __init__(self) -> None:
         self.about = {
-        'I mainly Program in Python',
-        'Owner of Rain Tools'
+            "language": "Python",
+            "role": "Owner of Rain Tools"
         }
+        self.socials = {
+            "discord": "look down ∙",
+            "github": "github.com/Plingenn",
+            "other": "nothing"
+        }
+        self.langs = ["Python", "Golang", ".."]
+        self.projects = ["..."]
 
-    def __my_socials__(self) -> None:
-        self.discord = "look down ∙"
-        self.github = "github.com/Plingenn"
-        self.other = ['nothing']
+    def get_about(self) -> dict:
+        return self.about
 
-    def __langs__(self) -> strawberry:
-        self.langs = ['Python', 'Golang', '..']
+    def get_socials(self) -> dict:
+        return self.socials
 
-    def __projects__(self) -> banana:
-        self.projects = ['...']
+    def get_langs(self) -> list:
+        return self.langs
+
+    def get_projects(self) -> list:
+        return self.projects
+
+
+if __name__ == "__main__":
+    plingenn = Plingenn()
+    print("About:", plingenn.get_about())
+    print("Socials:", plingenn.get_socials())
+    print("Languages:", plingenn.get_langs())
+    print("Projects:", plingenn.get_projects())
 
 ┌──(Plingenn㉿root)-[~/rain]
 └─$
