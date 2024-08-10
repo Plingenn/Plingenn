@@ -81,42 +81,9 @@
 
 -----------
 
-<details>
-<summary>:eyes: Show More</summary>
-
------------
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Plingenn&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-***
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=rain-tools" />
-</a>
- </details>
-
------------
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Plingenn&repo=rain-tools" />
-</a>
-
-</details>
-
-# My Projects
------------
-
 ## On Github:
 
 ### :film\_projector: [Check Out My Projects On Github! @Plingenn](https://github.com/Plingenn)
-
-Out of the numerous projects I've worked on, one stands tall as my flagship creation - Rain-Tools. This versatile and powerful utility is exclusively designed for Discord. If you're curious to dive into its capabilities, venture into its GitHub repository: [github.com/Plingenn/Rain-Tools](https://github.com/Plingenn/Rain-Tools).
-
-> **Note**
-> Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
-> 
-> **Note**
-> To get a closer look at Rain-Tools, you can also explore the project on Vercel: [Deploy to Vercel](https://github.com/Plingenn/Rain-Tool)
 
 [![Deploy to Vercel](https://vercel.com/button)](https://github.com/Plingenn/Rain-Tool)
 
